@@ -86,7 +86,7 @@
 
 "@babel/core@^7.1.0", "@babel/core@^7.12.3", "@babel/core@^7.7.5", "@babel/core@^7.8.4", "@babel/core@^7.9.0":
   version "7.13.15"
-  resolved "https://egistry.npmmirror.com/@babel/core/download/@babel/core-7.13.15.tgz?cache=0&sync_timestamp=1617898093335&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fcore%2Fdownload%2F%40babel%2Fcore-7.13.15.tgz#a6d40917df027487b54312202a06812c4f7792d0"
+  resolved "https://registry.npmmirror.com/@babel/core/download/@babel/core-7.13.15.tgz?cache=0&sync_timestamp=1617898093335&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fcore%2Fdownload%2F%40babel%2Fcore-7.13.15.tgz#a6d40917df027487b54312202a06812c4f7792d0"
   integrity sha1-ptQJF98CdIe1QxIgKgaBLE93ktA=
   dependencies:
     "@babel/code-frame" "^7.12.13"
